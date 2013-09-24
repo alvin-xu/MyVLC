@@ -1,0 +1,2 @@
+set solib-search-path D:/github/android/vlc-android/obj/local/armeabi
+directory E:/android-ndk-r9/platforms/android-9/arch-arm/usr/include E:/cygwin64/modules/codec/omxil E:/cygwin64/frameworks/base/include E:/cygwin64/system/core/include E:/android-ndk-r9/sources/cxx-stl/system/include D:/github/android/vlc-android/jni E:/cygwin64/frameworks/base/native/include E:/cygwin64/hardware/libhardware/include
